@@ -69,7 +69,7 @@ This competition was organized by Automatants - the AI student organization of C
   * - [x] Weighed vote
   * - [x] Meta Learner
   * - [ ] Distillation
-
+- [ ] Weighted loss
 ## Overview
 
 ### Data augmentation
@@ -136,6 +136,10 @@ Reference:
 ### Ensemble method
 
 As a last way to improve my models, I used ensemble methods to combine models. I started with a simple vote among my best models and this constitued my best model. I also tried to combine predictions with a meta-model but that was no better.
+
+### Weighted loss 
+
+To limit class imbalance, I could have used a weighted loss instead of augmenting my data until it is balanced. I would have saved some memory and some time but it was not really limiting. 
 
 ### Best model
 
