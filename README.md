@@ -62,7 +62,7 @@ This competition was organized by Automatants - the AI student organization of C
 - - [x] Feature extractor + Classifier
   * - [x] Mobilenet + LDA
   * - [x] Mobilenet + Gradient Boosting
-- - [x] Semi-supervied training
+- - [x] Semi-supervised training
 - - [ ] Few shot learning
 - - [x] Ensemble
   * - [x] Vote
@@ -143,7 +143,7 @@ My best model was a ensemble of six regular Mobilenets trained with Noisy studen
 
 ## What I learnt
 
-I started learning about Machine Learning one year ago. How far can I go now ? I wanted to put all my efforts in improving my understanding of CNNs, even if it meant taking more time to reading paper than fine-tuning.
+I started learning about Machine Learning one year ago. How far can I go now ? I wanted to put all my efforts in improving my understanding of CNNs, even if it meant taking more time to read paper than fine-tuning.
 
 Surprisingly, the architecture did not have a great influence on the accuracy. However, using Mobilenet v2 was definitly a great choice to have a light weight model which could be trained much faster than any other models.
 
