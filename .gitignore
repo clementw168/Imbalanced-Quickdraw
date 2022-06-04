@@ -1,0 +1,6 @@
+# Dataset
+
+*.npy
+
+# Weights
+*.h5
