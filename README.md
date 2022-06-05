@@ -1,6 +1,6 @@
 # Imbalanced-Quickdraw
 
-Winning an intern competition on imbalanced image classification.
+Winning an intern competition on imbalanced image classification. The competition took place between November, 15th 2021 and December, 15th 2021.
 
 ## Table of contents
 
