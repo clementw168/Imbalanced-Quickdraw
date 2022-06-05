@@ -156,4 +156,4 @@ Regularization was the key of the competition. As my models were always overfitt
 
 Ensemble methods are powerful tools as well. If I had the time I would have tried to use distillation on my ensemble model as it is much more satisfaying to have a good accuracy with smaller models.
 
-I also had the occasion to try more original methods such as **Semi-supervised training with Noisy student learning**, **Few shot learning** and LDA/Gradient Boosting with a deep feature extractor. I was sort of mitigated between trying something new with low chances to improve my score and trying to keep trying to find better hyperparameters. I am glad to have chosen to try many different techniques.
+I also had the occasion to try more original methods such as **Semi-supervised training with Noisy student learning**, **Few shot learning** and LDA/Gradient Boosting with a deep feature extractor. I was sort of mitigated between trying something new with low chances to improve my score and trying to find better hyperparameters. I am glad to have chosen to try as many different approches as possible.
